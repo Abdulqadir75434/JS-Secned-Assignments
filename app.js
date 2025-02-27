@@ -28,12 +28,31 @@ var message;
 message ="Hello world";
 alert(message)
 //Question 4
+var Studentname = "Abdul qadir ";
+var Studentage = 16;
+var course = "Web Development";
+var institute = "SMIT Institute";
+
+// Showing data in alert boxes
+//alert("Student Name: " + Studentname);
+//alert("Age: " + Studentage);
+//alert("Course: " + course);
+//alert("Institute: " + institute);
+//Quastion 5
 var Message = "PIZZA\nPIZZ\nPIZ\nPI\nP";
-alert(Message);
+//alert(Message);
 //Question 6
 var email = ("aq2929738@gmail.com")
-alert("My email address is " + email);
-
+//alert("My email address is " + email);
+//Question 7
+var book = "A smarter way to learn JavaScript";
+alert("I am currently reading " + book);
+//Question 8
+document.write("Hello, this is displayed in the browser using JavaScript!"); <br/>
+//Question 9
+var message = "Hello! This is a JavaScript message.";
+alert(message);
+document.write(message);
 
 
 
