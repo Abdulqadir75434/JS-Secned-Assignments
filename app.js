@@ -30,7 +30,9 @@ alert(message)
 //Question 4
 var Message = "PIZZA\nPIZZ\nPIZ\nPI\nP";
 alert(Message);
-
+//Question 6
+var email = ("aq2929738@gmail.com")
+alert("My email address is " + email);
 
 
 
@@ -66,10 +68,10 @@ alert(Message);
 
 //chapter-4
 
-var celsiustemperature = prompt("enter a celsiustemperature") 
-var fahrenheit =(celsiustemperature * 9/5) + 32;
-document.write(celsiustemperature + "celsius is equal to" + fahrenheit )
+// var celsiustemperature = prompt("enter a celsiustemperature") 
+// var fahrenheit =(celsiustemperature * 9/5) + 32;
+// document.write(celsiustemperature + "celsius is equal to" + fahrenheit )
 
-var fahrenheit = prompt("enter a fahrenheit temperature") 
-var celsiustemperature =(fahrenheit - 32)*5/9;
-document.write(fahrenheit + "fahrenheit is equal to" + celsiustemperature  )
+// var fahrenheit = prompt("enter a fahrenheit temperature") 
+// var celsiustemperature =(fahrenheit - 32)*5/9;
+// document.write(fahrenheit + "fahrenheit is equal to" + celsiustemperature  )
