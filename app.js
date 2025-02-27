@@ -11,14 +11,9 @@ console.log("Hello, World! \n This is a new line. \nUsing line breaks in HTML.")
 //alert("Message 3: Welcome to our website!");
 //Question 5
 console.log("Hello! MY name is AbdulQadir I am student of SMIT-Banch-15");
-
-
-
-
-
-
-
 //chapter 2
+
+
 //Question 1
 var username;
 //Question 2
@@ -27,6 +22,9 @@ var username="AbdlulQadir";
 var message;
 message ="Hello world";
 alert(message)
+
+
+
 //Question 4
 var Studentname = "Abdul qadir ";
 var Studentage = 16;
@@ -40,7 +38,7 @@ var institute = "SMIT Institute";
 //alert("Institute: " + institute);
 //Quastion 5
 var Message = "PIZZA\nPIZZ\nPIZ\nPI\nP";
-//alert(Message);
+alert(Message);
 //Question 6
 var email = ("aq2929738@gmail.com")
 //alert("My email address is " + email);
@@ -50,8 +48,8 @@ alert("I am currently reading " + book);
 //Question 8
 document.write("Hello, this is displayed in the browser using JavaScript!"); <br/>
 //Question 9
-var message = "Hello! This is a JavaScript message.";
-alert(message);
+var  alertmessage = "Hello! This is a JavaScript message.";
+//alert(message);
 document.write(message);
 
 
@@ -60,11 +58,12 @@ document.write(message);
 
 
 
-
-
-
-
 //chapter 3
+//Question 1
+var userage= ("16");
+alert("My age is " + userage);
+
+
 // Question 4
 // var username= prompt("Enter your name")
 // var product =prompt("Enter your product name")
